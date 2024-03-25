@@ -39,59 +39,59 @@
       "src": "assets/img/android/mipmap-xxxhdpi/ic_launcher.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
+    },  
     {
-      "src": "assets/img/Assets.xcassets/29.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/29.png",
       "type": "image/png",
       "sizes": "29x29"
     },
     {
-      "src": "assets/img/Assets.xcassets/40.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/40.png",
       "type": "image/png",
       "sizes": "40x40"
     },
     {
-      "src": "assets/img/Assets.xcassets/57.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/57.png",
       "type": "image/png",
       "sizes": "57x57"
     },
     {
-      "src": "assets/img/Assets.xcassets/58.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/58.png",
       "type": "image/png",
       "sizes": "58x58"
     },
     {
-      "src": "assets/img/Assets.xcassets/60.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/60.png",
       "type": "image/png",
       "sizes": "60x60"
     },
     {
-      "src": "assets/img/Assets.xcassets/80.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/80.png",
       "type": "image/png",
       "sizes": "80x80"
     },
     {
-      "src": "assets/img/Assets.xcassets/87.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/87.png",
       "type": "image/png",
       "sizes": "87x87"
     },
     {
-      "src": "assets/img/Assets.xcassets/114.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/114.png",
       "type": "image/png",
       "sizes": "114x114"
     },
     {
-      "src": "assets/img/Assets.xcassets/120.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/120.png",
       "type": "image/png",
       "sizes": "120x120"
     },
     {
-      "src": "assets/img/Assets.xcassets/180.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/180.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "assets/img/Assets.xcassets/1024.png",
+      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/1024.png",
       "type": "image/png",
       "sizes": "1024x1024"
     },
