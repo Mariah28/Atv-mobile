@@ -55,16 +55,16 @@ window.addEventListener('DOMContentLoaded', event => {
 
 //Validação de Login
 function login(){
-    var logado = 0;
+    var logado = false;
     var usuario = document.getElementById("usuario").value;
     var senha = document.getElementById("senha").value;
 
     if(usuario == 'aluno' && senha == '123456'){
         window.location = "index.html";
-        logado = 1;
+        logado = true;
     }
 
-    if(logado == 0){
+    if(!logado){
         alert("Acesso negado. Dados incorretos.")
     }
 }

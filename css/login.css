@@ -21,6 +21,7 @@ body{
 /* Formulário de cadastro*/
 #section-cadastro{
     padding: 5px;
+    margin: 0 auto;
     text-align: center;
 }
 
