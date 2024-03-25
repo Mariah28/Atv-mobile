@@ -1,0 +1,114 @@
+{
+  "background_color": "#1d364e",
+  "description": "O aplicativo oferta cursos de qualidade na área da programação, ministrados por profissionais especializados.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Coding Course",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Coding Course",
+  "start_url": "index.html",
+  "theme_color": "#1abc9c",
+  "icons": [
+    {
+      "src": "assets/img/cursos/icon.png",
+      "type": "image/png",
+      "sizes": "520x520"
+    },
+    {
+      "src": "assets/img/android/mipmap-hdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/img/android/mipmap-mdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/img/android/mipmap-xhdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/img/android/mipmap-xxhdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/img/android/mipmap-xxxhdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/29.png",
+      "type": "image/png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/40.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/58.png",
+      "type": "image/png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/80.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/87.png",
+      "type": "image/png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "assets/img/Assets.xcassets/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "assets/img/appstore.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "assets/img/playstore.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "Cursos",
+  "lang": "pt",
+  "categories": [
+    "education"
+  ]
+}
