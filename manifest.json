@@ -11,87 +11,97 @@
   "theme_color": "#1abc9c",
   "icons": [
     {
-      "src": "assets/img/cursos/icon.png",
+      "src": "assets/img/android/512.png",
       "type": "image/png",
-      "sizes": "520x520"
+      "sizes": "512x512"
     },
     {
-      "src": "assets/img/android/mipmap-hdpi/ic_launcher.png",
+      "src": "assets/img/android/192.png",
       "type": "image/png",
-      "sizes": "72x72"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "assets/img/android/mipmap-mdpi/ic_launcher.png",
+      "src": "assets/img/android/144.png",
       "type": "image/png",
-      "sizes": "48x48"
+      "sizes": "144x144",
+      "purpose": "any maskable"
     },
     {
-      "src": "assets/img/android/mipmap-xhdpi/ic_launcher.png",
+      "src": "assets/img/android/96.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "96x96",
+      "purpose": "any maskable"
     },
     {
-      "src": "assets/img/android/mipmap-xxhdpi/ic_launcher.png",
+      "src": "assets/img/android/72.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "72x72",
+      "purpose": "any maskable"
     },
     {
-      "src": "assets/img/android/mipmap-xxxhdpi/ic_launcher.png",
+      "src": "assets/img/android/48.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "48x48",
+      "purpose": "any maskable"
     },  
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/29.png",
+      "src": "assets/img/ios/29.png",
       "type": "image/png",
       "sizes": "29x29"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/40.png",
+      "src": "assets/img/ios/40.png",
       "type": "image/png",
       "sizes": "40x40"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/57.png",
+      "src": "assets/img/ios/57.png",
       "type": "image/png",
       "sizes": "57x57"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/58.png",
+      "src": "assets/img/ios/58.png",
       "type": "image/png",
       "sizes": "58x58"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/60.png",
+      "src": "assets/img/ios/60.png",
       "type": "image/png",
       "sizes": "60x60"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/80.png",
+      "src": "assets/img/ios/76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "assets/img/ios/80.png",
       "type": "image/png",
       "sizes": "80x80"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/87.png",
+      "src": "assets/img/ios/87.png",
       "type": "image/png",
       "sizes": "87x87"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/114.png",
+      "src": "assets/img/ios/114.png",
       "type": "image/png",
       "sizes": "114x114"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/120.png",
+      "src": "assets/img/ios/120.png",
       "type": "image/png",
       "sizes": "120x120"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/180.png",
+      "src": "assets/img/ios/180.png",
       "type": "image/png",
       "sizes": "180x180"
     },
     {
-      "src": "assets/img/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "src": "assets/img/ios/1024.png",
       "type": "image/png",
       "sizes": "1024x1024"
     },
