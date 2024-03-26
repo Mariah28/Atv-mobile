@@ -24,26 +24,22 @@
     {
       "src": "assets/img/android/144.png",
       "type": "image/png",
-      "sizes": "144x144",
-      "purpose": "any maskable"
+      "sizes": "144x144"
     },
     {
       "src": "assets/img/android/96.png",
       "type": "image/png",
-      "sizes": "96x96",
-      "purpose": "any maskable"
+      "sizes": "96x96"
     },
     {
       "src": "assets/img/android/72.png",
       "type": "image/png",
-      "sizes": "72x72",
-      "purpose": "any maskable"
+      "sizes": "72x72"
     },
     {
       "src": "assets/img/android/48.png",
       "type": "image/png",
-      "sizes": "48x48",
-      "purpose": "any maskable"
+      "sizes": "48x48"
     },  
     {
       "src": "assets/img/ios/29.png",
