@@ -140,6 +140,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
+  color: #2c3e50;
 }
 @media (min-width: 1200px) {
   h3, .h3 {
@@ -4865,7 +4866,7 @@ textarea.form-control-lg {
   --bs-list-group-action-active-color: #212529;
   --bs-list-group-action-active-bg: #e9ecef;
   --bs-list-group-disabled-color: #6c757d;
-  --bs-list-group-disabled-bg: #fff;
+  --bs-list-group-disabled-bg: ;
   --bs-list-group-active-color: #fff;
   --bs-list-group-active-bg: #1abc9c;
   --bs-list-group-active-border-color: #1abc9c;
@@ -10953,7 +10954,7 @@ html {
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
-  background-color: #fff;
+  background-color: #2C3E50;
 }
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff;
@@ -11147,4 +11148,14 @@ html {
       font-size: 1.2rem; 
       line-height: 1.5rem; 
   }
+}
+
+.map h2{
+  margin: 20px 0 20px 0;
+}
+
+#map {
+  width: 100%; 
+  height: 400px; 
+  margin-top: 20px;
 }

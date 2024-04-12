@@ -21,6 +21,7 @@ self.addEventListener('install', event => {
         './js/jquery-script.js',
 
         './js/scripts.js',
+        './js/map.js',
         
         './assets/img/android/512.png',
         './assets/img/android/192.png',
