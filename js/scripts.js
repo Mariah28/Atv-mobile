@@ -74,3 +74,4 @@ function cadastro(){
         alert("Cadastro com sucesso!");
     window.location.href = "index.html";
 }
+
